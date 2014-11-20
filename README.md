@@ -1,5 +1,4 @@
 # Shell script for bulk upgrade of Drupal sites
--------------------
 
 ## Overview
 
