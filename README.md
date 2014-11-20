@@ -7,9 +7,9 @@ The script performs upgrade for all subdirectories of SITES_DIR (see _settings.s
 
 What it does for every site:  
 
-- Backups robots.txt and database  
+- Backups robots.txt, .htaccess and database  
 - Upgrade Drupal core  
-- Restore robots.txt  
+- Restore robots.txt and .htaccess 
 
 It's based on [Drush](https://github.com/drush-ops/drush) and was tested with Drush 6.4.0
 
